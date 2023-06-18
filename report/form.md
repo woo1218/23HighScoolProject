@@ -7,6 +7,8 @@ backgroundImage: url()
 marp: true
 ---
 
+![bg left:33%](https://images.unsplash.com/photo-1685631478719-1abcf74b67c4?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=687&q=80)
+
 # 제목
 
 #### **부제목**
@@ -14,8 +16,9 @@ marp: true
 </br>
 
 ##### 이정우| 갈뫼중학교 | 3학년
----
 
+---
+![bg right:50%](https://media.istockphoto.com/id/1347310666/ko/%EC%82%AC%EC%A7%84/%ED%94%84%EB%A1%9C%EC%84%B8%EC%84%9C-%EC%B9%A9-%EA%B8%B0%EC%88%A0-%ED%99%98%EA%B2%BD-%EB%B8%94%EB%A1%9D-%EC%B2%B4%EC%9D%B8-%EA%B0%9C%EB%85%90.jpg?s=612x612&w=0&k=20&c=0v5GBKmRh7bQg9qhRb1FRZsjSlJZILwTgPgh0JUHZ9s=)
 # ✨ Project Information
 
 ### | **준비 기간**
